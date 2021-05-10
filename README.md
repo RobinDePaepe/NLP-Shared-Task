@@ -17,16 +17,6 @@ TABLE OF CONTENTS:
 4. Final model
    The final model gets trained and evaluated after which we perform our final predictions on the      test set.
    
-   
-   Data:
-   Map containing the original train and test sets
-   
-   Featured_Data:
-   Map containing several iterations of feature-extrated data
-   
-   Output:
-   predictions on the test set
-   
    DeepLearning.ipynb
    An experiment with the dataset on the BERT model which did not result in any valid usage. Not      integrated in the final model.
    
